@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 * {
   margin: 0;
 }
@@ -19,6 +20,8 @@ main {
     linear-gradient(336deg, green, rgba(0, 0, 0, 0) 100%);
   animation: rotation linear 4s infinite;
 }
+=======
+>>>>>>> 416f0cbbe34601ec86016b810edbfc0c9dd5d2bf
 
 @keyframes rotation {
   0% {
